@@ -1,0 +1,252 @@
+[
+    {
+        "attribute": "edge", 
+        "dpid": 1, 
+        "name": "s001"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 2, 
+        "name": "s002"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 3, 
+        "name": "s003"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 4, 
+        "name": "s004"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 5, 
+        "name": "s005"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 6, 
+        "name": "s006"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 7, 
+        "name": "s007"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 8, 
+        "name": "s008"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 9, 
+        "name": "s009"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 10, 
+        "name": "s010"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 11, 
+        "name": "s011"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 12, 
+        "name": "s012"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 13, 
+        "name": "s013"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 14, 
+        "name": "s014"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 15, 
+        "name": "s015"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 16, 
+        "name": "s016"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 17, 
+        "name": "s017"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 18, 
+        "name": "s018"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 19, 
+        "name": "s019"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 20, 
+        "name": "s020"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 21, 
+        "name": "s021"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 22, 
+        "name": "s022"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 23, 
+        "name": "s023"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 24, 
+        "name": "s024"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 25, 
+        "name": "s025"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 26, 
+        "name": "s026"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 27, 
+        "name": "s027"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 28, 
+        "name": "s028"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 29, 
+        "name": "s029"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 30, 
+        "name": "s030"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 31, 
+        "name": "s031"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 32, 
+        "name": "s032"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 33, 
+        "name": "s033"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 34, 
+        "name": "s034"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 35, 
+        "name": "s035"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 36, 
+        "name": "s036"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 37, 
+        "name": "s037"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 38, 
+        "name": "s038"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 39, 
+        "name": "s039"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 40, 
+        "name": "s040"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 41, 
+        "name": "s041"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 42, 
+        "name": "s042"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 43, 
+        "name": "s043"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 44, 
+        "name": "s044"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 45, 
+        "name": "s045"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 46, 
+        "name": "s046"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 47, 
+        "name": "s047"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 48, 
+        "name": "s048"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 49, 
+        "name": "s049"
+    }, 
+    {
+        "attribute": "edge", 
+        "dpid": 50, 
+        "name": "s050"
+    }
+]

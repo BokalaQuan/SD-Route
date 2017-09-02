@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <script src="./js/jquery.js"></script>
+
+    <script src="./js/bootstrap.js"></script>
+
+    <script src="./js/d3.v3.min.js" charset="utf-8"></script>
+    <link href="./css/bootstrap.css" rel="stylesheet" type="text/css">
+
+    <style type="text/css">
+        .navbar-nav > li > a {
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+
+        .navbar-brand {
+            height: 20px;
+            padding-top: 5px;
+        }
+
+        .navbar {
+            min-height: 20px;
+            margin-bottom: 0px;
+        }
+
+        .navbar-toggle {
+            margin-top: 4px;
+            margin-bottom: 4px;
+        }
+
+        .pic {
+            height: 90px;
+            margin-bottom: 10px;
+            background: #e8e8e8;
+
+        }
+
+        .cont {
+            padding-left: 550px;
+            padding-top: 5px;
+        }
+
+        .cont_left {
+            padding-left: 0px;
+            padding-top: 0px;
+            width: 70px;
+            float: left;
+        }
+
+        .cont_right {
+            padding-left: 0px;
+            padding-top: 0px;
+            float: left;
+        }
+    </style>
+
+
+</head>
+
+<body>
+
+<div class="pic" style="height: 60px">
+    <div class="cont">
+        <div class="cont_left" style="padding-bottom: 10px"><img src='./image/swjtu.png' alt="SWJTU" height=70% width=70%></div>
+        <div class="cont_right">
+            <div><font size="4">SD-RouteS</font></div>
+            <div><font size="1">信息光子与通信研究中心</font></div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">拓扑显示</div>
+        <div class="panel-body" id="topo_body">
+            <div class="hero-unit" style="height: 1000px;">
+                <iframe src="topo.html" name="middle" frameborder="0" scrolling="auto" width="100%" height="100%"></iframe>
+                <div class="test" id="test"></div>
+
+            </div>
+        </div>
+    </div>
+
+    <div>
+
+
+    </div>
+
+</div>
+
+</body>

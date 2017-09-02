@@ -1,0 +1,847 @@
+[
+    {
+        "Individual": 0, 
+        "attribute": {
+            "bandwidth": 10000000.0, 
+            "delay": 0.012, 
+            "loss": 0.0011995500499999423, 
+            "paths": [
+                [
+                    23, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 1, 
+        "attribute": {
+            "bandwidth": 30000000.0, 
+            "delay": 0.011, 
+            "loss": 0.0014994600400000113, 
+            "paths": [
+                [
+                    23, 
+                    13, 
+                    25, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 2, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 3, 
+        "attribute": {
+            "bandwidth": 10000000.0, 
+            "delay": 0.012, 
+            "loss": 0.0011995500499999423, 
+            "paths": [
+                [
+                    23, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 4, 
+        "attribute": {
+            "bandwidth": 30000000.0, 
+            "delay": 0.011, 
+            "loss": 0.0014994600400000113, 
+            "paths": [
+                [
+                    23, 
+                    13, 
+                    25, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 5, 
+        "attribute": {
+            "bandwidth": 30000000.0, 
+            "delay": 0.011, 
+            "loss": 0.0014994600400000113, 
+            "paths": [
+                [
+                    23, 
+                    13, 
+                    25, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 6, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 7, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 8, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 9, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 10, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 11, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 12, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 13, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 14, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 15, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 16, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 17, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 18, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 19, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 20, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 21, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 22, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 23, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 24, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 25, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 26, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 27, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 28, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 29, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 30, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 31, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 32, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 33, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 34, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 35, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 36, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 37, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 38, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 39, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 40, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 41, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 42, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 43, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 44, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 45, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 46, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 47, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 48, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }, 
+    {
+        "Individual": 49, 
+        "attribute": {
+            "bandwidth": 50000000.0, 
+            "delay": 0.015, 
+            "loss": 0.0011994900919939377, 
+            "paths": [
+                [
+                    23, 
+                    50, 
+                    8, 
+                    17, 
+                    4
+                ]
+            ]
+        }
+    }
+]

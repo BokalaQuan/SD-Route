@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <script src="./jquery-2.1.3.min.js"></script>
+
+    <script src="./bootstrap.js"></script>
+
+    <script src="./d3.v3.min.js" charset="utf-8"></script>
+    <link href="./bootstrap.css" rel="stylesheet" type="text/css">
+
+    <style type="text/css">
+        .navbar-nav > li > a {
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+
+        .navbar-brand {
+            height: 20px;
+            padding-top: 5px;
+        }
+
+        .navbar {
+            min-height: 20px;
+            margin-bottom: 0px;
+        }
+
+        .navbar-toggle {
+            margin-top: 4px;
+            margin-bottom: 4px;
+        }
+
+        .pic {
+            height: 90px;
+            margin-bottom: 10px;
+            background: #e8e8e8;
+
+        }
+
+        .cont {
+            padding-left: 400px;
+            padding-top: 10px;
+        }
+
+        .cont_left {
+            padding-left: 0px;
+            padding-top: 0px;
+            width: 70px;
+            float: left;
+        }
+
+        .cont_right {
+            padding-left: 0px;
+            padding-top: 0px;
+            float: left;
+        }
+    </style>
+
+</head>
+
+<body>
+
+<div>
+    <nav class="navbar navbar-inverse" role="navigation">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">&nbsp;</a></div>
+        <div>
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="#">&nbsp;</a></li>
+                <li><a href="#">&nbsp;</a></li>
+            </ul>
+        </div>
+    </nav>
+</div>
+<div class="pic">
+    <div class="cont">
+        <div class="cont_left"><img src='./xiaohui1.gif'></div>
+        <div class="cont_right">
+            <div><font size="6">SDN Management Platform</font></div>
+            <div><font size="2">信息光子与通信研究中心</font></div>
+        </div>
+    </div>
+</div>
+
+<div class="container-inverse">
+
+    <div class="row-fluid">
+
+        <div class="col-md-2">
+            <div>
+                <a href="#" class="list-group-item active">扫描攻击迷惑</a>
+                <a class="list-group-item" href="/proto.html" target="middle">协议配置</a>
+                <a class="list-group-item" href="/policy.html" target="middle">业务配置</a>
+                <a class="list-group-item" href="/decoyHost.html" target="middle">迷惑主机配置</a>
+                </ul>
+
+            </div>
+
+
+        </div>
+
+        <div class="col-md-10">
+
+            <div class="hero-unit" style="height:1000px;">
+                <iframe src="proto.html" name="middle" frameborder="0" scrolling="auto" width="100%"
+                        height="100%"></iframe>
+                <div class="test" id="test"></div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>

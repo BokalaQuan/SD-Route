@@ -1,0 +1,11 @@
+.idea/
+.project
+.pydevproject
+.svn/
+*.pyc
+*.py~
+*.html~
+*.log
+test/
+topology_manage/conf/
+host_manage/conf/
