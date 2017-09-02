@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SD-RouteS
 Software-Defined Route System
 
@@ -72,3 +73,6 @@ sh rest_api/initialize_parameter.sh
 - fault_recovery: recover route automatically when link down
 - load_balance: load balance module for IP based service
 - web_service: GUI event
+=======
+# SD-Route
+>>>>>>> 5ca1ddba404021b638cf4dcd94d80a34f4b1faa3
